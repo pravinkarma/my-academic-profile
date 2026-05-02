@@ -1,6 +1,6 @@
 # My Academic Profile
 
-## Name
+## FULL Name
 Prain Karma
 
 ## Department
@@ -8,4 +8,4 @@ IT
 
 ## Courses Taught
 Data Strctures
-Information Retrieval
+Information
