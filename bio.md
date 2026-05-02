@@ -9,3 +9,9 @@ IT
 ## Courses Taught
 Data Strctures
 Information
+## Research Interests
+- Artificial Intelligence
+- Data Science
+
+## Experience
+- 5 years teaching experience
